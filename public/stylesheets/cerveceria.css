@@ -13,7 +13,7 @@ h2 {
 }
 
 .hero {
-    background: url(/images/header.jpg) no-repeat;
+    background: url(./../images/header.jpg) no-repeat;
     background-size: cover;
     height: 0.5vh;
     min-height: 600px;
